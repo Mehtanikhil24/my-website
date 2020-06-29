@@ -135,17 +135,7 @@ a:hover{
   border-radius: 8px;
   text-decoration: none;
 }
-.couples{
-  position: absolute;
-  left: 1000px;
-  top: 300px;
-}
-.bottom-weight{
-  width: 10%;
-  position: absolute;
-  left:170px;
-  top: 350px;
-}
+
 .top-boy{
   position: relative;
   top: 0;
